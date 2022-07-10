@@ -1,2 +1,2 @@
-# acesta-coin
+# acesta
 My cryptocurrency coin project.
